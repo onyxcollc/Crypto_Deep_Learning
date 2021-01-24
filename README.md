@@ -36,4 +36,6 @@ Experiment with the model architecture and parameters to see which provides the 
 For training, use at least 10 estimators for both models.
 
 - - -
-
+### Conclusion
+Stock predictor closing  was a better model then the FNG model. 
+There are still some modifications that can be done to create more accurate prediction since the closing model is underfit. 
