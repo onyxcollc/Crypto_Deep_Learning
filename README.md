@@ -27,8 +27,6 @@ Because of the volatility of cryptocurrency speculation, investors will often tr
 - - -
 
 
-
-
 ### Hints and Considerations
 
 Experiment with the model architecture and parameters to see which provides the best results, but be sure to use the same architecture and parameters when comparing each model.
@@ -36,6 +34,24 @@ Experiment with the model architecture and parameters to see which provides the 
 For training, use at least 10 estimators for both models.
 
 - - -
+
 ### Conclusion
 Stock predictor closing  was a better model then the FNG model. 
 There are still some modifications that can be done to create more accurate prediction since the closing model is underfit. 
+
+
+
+
+#### Price Model
+
+[<img src="Images/Predict_1.PNG"/>]
+
+
+#### FNG Model
+
+[<img src="Images/Predict.PNG"/>]
+
+
+
+
+
