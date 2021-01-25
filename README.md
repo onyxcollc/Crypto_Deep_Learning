@@ -44,12 +44,12 @@ There are still some modifications that can be done to create more accurate pred
 
 #### Price Model
 
-[<img src="Predict_1.PNG"/>]
+<img src="Predict_1.PNG"/>
 
 
 #### FNG Model
 
-[<img src="Predict_2.PNG"/>]
+<img src="Predict_2.PNG"/>
 
 
 
